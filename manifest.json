@@ -1,0 +1,24 @@
+{
+  "background_color": "#673ab7",
+  "description": "Portal de central de negocios",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BC - Central de negocios",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Central",
+  "start_url": "/",
+  "theme_color": "#f5f5f5",
+  "icons": [
+    {
+      "src": "images/128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "images/399x131.png",
+      "type": "image/png",
+      "sizes": "399x131"
+    }
+  ]
+}
